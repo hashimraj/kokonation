@@ -6,7 +6,7 @@ const footerLinks = {
     { label: "Real Estate", href: "/real-estate", icon: Building2 },
     { label: "Car Deals", href: "/car-deals", icon: Car },
     { label: "Travels & Tours", href: "/travels-tours", icon: Plane },
-    { label: "Clothing & Fashion", href: "/fashion", icon: Shirt },
+    /*{ label: "Clothing & Fashion", href: "/fashion", icon: Shirt },*/
   ],
   company: [
     { label: "About Us", href: "#about" },

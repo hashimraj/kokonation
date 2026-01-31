@@ -28,14 +28,14 @@ const slides = [
     description: "Unforgettable journeys and experiences",
     icon: Plane,
   },
-  {
+  /*{
     id: 4,
     image: "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=1920&h=1080&fit=crop",
     title: "Fashion",
     subtitle: "African Style",
     description: "Contemporary fashion with African heritage",
     icon: Shirt,
-  },
+  },*/
 ];
 
 export const Hero = () => {

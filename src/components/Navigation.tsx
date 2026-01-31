@@ -11,7 +11,7 @@ const navItems = [
   { label: "Real Estate", href: "/real-estate" },
   { label: "Car Deals", href: "/car-deals" },
   { label: "Travels & Tours", href: "/travels-tours" },
-  { label: "Fashion", href: "/fashion" },
+  /*{ label: "Fashion", href: "/fashion" },*/
 ];
 
 export const Navigation = () => {
@@ -97,8 +97,7 @@ export const Navigation = () => {
                 </Link>
               ))}
             </div>
-            <div className="ml-4 flex items-center gap-2">
-              <CartButton />
+            <div className="ml-4 flex items-center gap-2"> 
               <ThemeToggle />
               <Button 
                 variant={scrolled || !isHomePage ? "gold" : "hero"} 

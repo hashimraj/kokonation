@@ -34,7 +34,7 @@ const businesses = [
     iconBg: "bg-gradient-to-br from-amber-500/20 to-amber-600/10",
     iconColor: "text-amber-600",
   },
-  {
+  /*{
     icon: Shirt,
     title: "Clothing & Fashion",
     description:
@@ -43,7 +43,7 @@ const businesses = [
     color: "from-rose-500/20 to-rose-600/20",
     iconBg: "bg-gradient-to-br from-rose-500/20 to-rose-600/10",
     iconColor: "text-rose-600",
-  },
+  },*/
 ];
 
 export const Businesses = () => {
