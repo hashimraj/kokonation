@@ -4,7 +4,7 @@ import { Menu, X, ChevronDown } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { ThemeToggle } from "@/components/ThemeToggle";
-import { CartButton } from "@/components/CartButton";
+//import { CartButton } from "@/components/CartButton";
 
 const navItems = [
   { label: "Home", href: "/" },
@@ -111,7 +111,7 @@ export const Navigation = () => {
 
           {/* Mobile Right Section */}
           <div className="flex lg:hidden items-center gap-2">
-            <CartButton />
+            {/* <CartButton /> */}
             <ThemeToggle />
             <button
               className={`p-2 rounded-lg transition-colors ${
