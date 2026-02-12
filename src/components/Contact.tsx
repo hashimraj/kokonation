@@ -77,7 +77,7 @@ export const Contact = () => {
                 <div>
                   <h3 className="font-semibold text-foreground mb-1 text-sm">WhatsApp</h3>
                   <p className="text-muted-foreground text-xs">
-                    Kenya: +254 700 000 000
+                    Kenya: +254 746 613 210
                   </p>
                   <p className="text-muted-foreground text-xs">
                     Nigeria: +234 800 000 0000

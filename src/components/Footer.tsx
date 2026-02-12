@@ -81,7 +81,7 @@ export const Footer = () => {
                 <div className="w-8 h-8 rounded-lg bg-gold/10 flex items-center justify-center">
                   <Phone className="w-4 h-4 text-gold" />
                 </div>
-                <span className="text-sm">+254 700 000 000</span>
+                <span className="text-sm">+254 746 613 210</span>
               </div>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <div className="w-8 h-8 rounded-lg bg-gold/10 flex items-center justify-center">
@@ -165,7 +165,7 @@ export const Footer = () => {
                 WhatsApp Support
               </p>
               <p className="text-sm text-muted-foreground flex items-center gap-2">
-                🇰🇪 +254 700 000 000
+                🇰🇪 +254 746 613 210
               </p>
               <p className="text-sm text-muted-foreground flex items-center gap-2 mt-1">
                 🇳🇬 +234 800 000 0000
