@@ -171,7 +171,7 @@ export const Hero = () => {
               >
                 {[
                   { number: "2", label: "Countries" },
-                  { number: "4", label: "Business Lines" },
+                  { number: "3", label: "Business Lines" },
                   { number: "1000+", label: "Clients" },
                 ].map((stat, index) => (
                   <div key={index} className="group cursor-default text-center md:text-left flex-shrink-0">
